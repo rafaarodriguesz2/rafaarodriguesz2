@@ -72,5 +72,5 @@ Oh, and by the way — I’m originally from <strong>Brazil</strong>.
     <li>GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a></li>
     <li>Snake animation by <a href="https://github.com/Platane/snk">Platane</a></li>
   </ul>
-  <div align="right">Made with 💙 by <a href="https://github.com/rafaarodriguesz2">Rafael Rodrigues</a>.</div>
+  <div align="right">Made by <a href="https://github.com/rafaarodriguesz2">Rafael Rodrigues</a>.</div>
 </details>
