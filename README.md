@@ -48,11 +48,10 @@ Oh, and by the way — I’m originally from <strong>Brazil</strong>.
 
 <h3>GitHub Stats</h3>
 
-<!--
+
 <a href="https://github.com/rafaarodriguesz2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaarodriguesz2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </a>
--->
 
 <a href="https://github.com/rafaarodriguesz2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaarodriguesz2&layout=compact&langs_count=8&theme=tokyonight"/>
